@@ -1,0 +1,2 @@
+gcc -g -std=gnu99 -I/root/RedPitaya/api/include/ -L/root/RedPitaya/api/lib/ -lrp -lm -o control_multichannel_dds control_multichannel_dds.c
+
